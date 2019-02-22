@@ -13,7 +13,7 @@ In this game, we'll see Alice's story, an engineer who, amnesic, finds herself i
 
 ### Miembros / Members
 
-Jaume Montferrer:
+Manel Ferrera:
 + Correo / Email: manelferrera2017@cev.com
 + Portfolio: https://www.artstation.com/argental
 
