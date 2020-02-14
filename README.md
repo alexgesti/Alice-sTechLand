@@ -2,7 +2,7 @@
 
 Plataformas de acción en 2.5D, tremendamente inspirado en icónicas sagas como Megaman y Kirby.
 
-2.5D plataform and action videogame, mostly inspired in iconic sagas like Megmana and Kirby.
+2.5D plataform and action videogame, mostly inspired in iconic sagas like Megaman and Kirby.
 
 
 ## Características / Features
